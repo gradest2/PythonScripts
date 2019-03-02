@@ -1,3 +1,4 @@
 # hello-world
 My first repo
-Let's try to hard work!
+I don't want to work.
+I want money!
